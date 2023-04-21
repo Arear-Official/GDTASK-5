@@ -1,0 +1,8 @@
+C:\Users\37533\Desktop\C#\gd5\gd5\bin\Debug\gd5.exe.config
+C:\Users\37533\Desktop\C#\gd5\gd5\bin\Debug\gd5.exe
+C:\Users\37533\Desktop\C#\gd5\gd5\bin\Debug\gd5.pdb
+C:\Users\37533\Desktop\C#\gd5\gd5\obj\Debug\gd5.csproj.AssemblyReference.cache
+C:\Users\37533\Desktop\C#\gd5\gd5\obj\Debug\gd5.csproj.SuggestedBindingRedirects.cache
+C:\Users\37533\Desktop\C#\gd5\gd5\obj\Debug\gd5.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\C#\gd5\gd5\obj\Debug\gd5.exe
+C:\Users\37533\Desktop\C#\gd5\gd5\obj\Debug\gd5.pdb
